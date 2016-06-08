@@ -1,1 +1,1 @@
-# global
+# For internal use only
